@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'sameerkataria/freshertrainingdotnet'
+        IMAGE_NAME = 'priyansh67/testdotnetproject'
         IMAGE_TAG = 'latest'
     }
 
